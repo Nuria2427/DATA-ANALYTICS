@@ -46,6 +46,14 @@ WHERE company_id IN (SELECT id
     WHERE country = 'Germany');
     
 -- Llista les empreses que han realitzat transaccions per un amount superior a la mitjana de totes les transaccions.
+
+SELECT DISTINCT c.company_name, t.amount
+FROM company c, transaction t
+WHERE c.id = t.company_id AND t.amount > (
+    SELECT AVG(amount) 
+    FROM transaction
+);
+
 SELECT distinct c.company_name, t.amount
 FROM transaction t
 JOIN company c
@@ -56,6 +64,14 @@ WHERE t.amount > (
 );
 
 -- Eliminaran del sistema les empreses que no tenen transaccions registrades, entrega el llistat d'aquestes empreses.
+SELECT *
+FROM company c
+WHERE NOT EXISTS (
+    SELECT 1
+    FROM transaction t
+    WHERE t.company_id = c.id
+);
+
 SELECT c.company_name
 from transaction t
 JOIN company c
