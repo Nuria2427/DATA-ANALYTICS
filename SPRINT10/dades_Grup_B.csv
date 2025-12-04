@@ -1,0 +1,319 @@
+DNI,Index_original,Nom,Cognoms,País d'origen,Ciutat,Dia,Mes,Any,Gènere,Salari mensual,Fills,Grup Professional,Nom_complet,Nascut_a_Espanya,data_naixement,edat,Increment,Salari mensual actualitzat
+16928694K,0,Inês,Ferreira Silva,Portugal,Lisboa,25,2,1953,Dona,1144,No,Grup B,Inês Ferreira Silva,False,1953-02-25,72,0.035,1184.04
+59157262R,3,Khadija,Bennani Bennani,Marroc,Rabat,20,1,1995,Dona,1944,No,Grup B,Khadija Bennani Bennani,False,1995-01-20,30,0.035,2012.04
+74222289K,13,Toni,Castells Romero,Espanya,Barcelona,13,4,1961,Home,1438,No,Grup B,Toni Castells Romero,True,1961-04-13,64,0.035,1488.33
+22021087Z,18,Núria,García López,Espanya,Madrid,8,6,1969,Dona,1374,No,Grup B,Núria García López,True,1969-06-08,56,0.035,1422.09
+29801291B,20,Toni,Castells Martínez,Espanya,Barcelona,10,1,1981,Home,2102,Sí,Grup B,Toni Castells Martínez,True,1981-01-10,44,0.035,2175.57
+83874145K,24,Chloé,Lefevre,França,Marsella,10,9,1973,Dona,1901,Sí,Grup B,Chloé Lefevre,False,1973-09-10,52,0.035,1967.54
+17029292R,26,Marc,Romero Martínez,Espanya,Bilbao,4,7,1993,Home,2027,Sí,Grup B,Marc Romero Martínez,True,1993-07-04,32,0.035,2097.94
+59690898N,31,Oriol,López Ferrer,Espanya,Barcelona,3,11,1969,Home,1498,Sí,Grup B,Oriol López Ferrer,True,1969-11-03,56,0.035,1550.43
+60170471X,32,Toni,Martínez Castells,Espanya,Sevilla,20,4,1952,Altres,2129,No,Grup B,Toni Martínez Castells,True,1952-04-20,73,0.035,2203.52
+37846341L,35,Isla,Jones,Regne Unit,Manchester,26,6,1985,Dona,1412,Sí,Grup B,Isla Jones,False,1985-06-26,40,0.035,1461.42
+33445957H,37,Eva,Ferrer Martínez,Espanya,Sevilla,4,5,1960,Dona,1421,No,Grup B,Eva Ferrer Martínez,True,1960-05-04,65,0.035,1470.74
+96482330F,39,Marc,Ferrer Ferrer,Espanya,Bilbao,20,3,1974,Home,1550,Sí,Grup B,Marc Ferrer Ferrer,True,1974-03-20,51,0.035,1604.25
+90731738C,44,Pau,Martínez,Espanya,Madrid,17,8,1999,Home,1971,No,Grup B,Pau Martínez,True,1999-08-17,26,0.035,2039.98
+45888164B,45,Giulia,Conti,Itàlia,Roma,8,7,1998,Dona,1968,Sí,Grup B,Giulia Conti,False,1998-07-08,27,0.035,2036.88
+89187959Z,46,Anna,Sánchez,Espanya,Sevilla,21,10,1955,Dona,1304,No,Grup B,Anna Sánchez,True,1955-10-21,70,0.035,1349.64
+17851044J,47,Pau,Ferrer,Espanya,Bilbao,25,4,1957,Home,1319,Sí,Grup B,Pau Ferrer,True,1957-04-25,68,0.035,1365.16
+16587202X,54,Eva,López,Espanya,Bilbao,16,12,1974,Dona,1963,No,Grup B,Eva López,True,1974-12-16,50,0.035,2031.7
+43485739Q,58,Andrés,González,Mèxic,Guadalajara,26,2,1992,Home,2279,Sí,Grup B,Andrés González,False,1992-02-26,33,0.035,2358.76
+32384138R,62,Clara,Sánchez López,Espanya,València,27,7,1955,Dona,2013,Sí,Grup B,Clara Sánchez López,True,1955-07-27,70,0.035,2083.46
+27772301M,63,Anna,Castells Romero,Espanya,València,25,8,1978,Dona,1672,No,Grup B,Anna Castells Romero,True,1978-08-25,47,0.035,1730.52
+44988676P,64,Eva,Sánchez,Espanya,Bilbao,10,1,1977,Dona,1887,No,Grup B,Eva Sánchez,True,1977-01-10,48,0.035,1953.04
+58904747N,66,Joan,Ferrer,Espanya,Bilbao,13,11,1994,Home,1521,No,Grup B,Joan Ferrer,True,1994-11-13,31,0.035,1574.24
+63852668M,76,Anna,Sánchez García,Espanya,Sevilla,13,7,1993,Dona,1452,No,Grup B,Anna Sánchez García,True,1993-07-13,32,0.035,1502.82
+57230838V,78,Khadija,Fassi,Marroc,Rabat,10,5,1970,Dona,1422,No,Grup B,Khadija Fassi,False,1970-05-10,55,0.035,1471.77
+23876940J,86,Marta,Romero,Espanya,València,25,11,2002,Dona,1258,No,Grup B,Marta Romero,True,2002-11-25,23,0.035,1302.03
+45581974X,95,Núria,Romero,Espanya,Madrid,26,10,1993,Dona,1352,Sí,Grup B,Núria Romero,True,1993-10-26,32,0.035,1399.32
+91110497A,97,Arnau,García,Espanya,València,2,1,1954,Home,2126,No,Grup B,Arnau García,True,1954-01-02,71,0.035,2200.41
+90181637T,111,Núria,López,Espanya,Bilbao,1,1,1973,Dona,1667,Sí,Grup B,Núria López,True,1973-01-01,52,0.035,1725.34
+82953871E,114,Toni,Castells,Espanya,València,1,4,1963,Home,1764,Sí,Grup B,Toni Castells,True,1963-04-01,62,0.035,1825.74
+57340670Z,121,Gabriela,González,Mèxic,Ciutat de Mèxic,17,6,1955,Dona,1612,Sí,Grup B,Gabriela González,False,1955-06-17,70,0.035,1668.42
+21762997G,131,Pau,Sánchez,Espanya,Barcelona,13,3,1962,Home,1473,No,Grup B,Pau Sánchez,True,1962-03-13,63,0.035,1524.55
+53012171X,134,Laia,Sánchez Castells,Espanya,Barcelona,21,11,1970,Dona,2057,Sí,Grup B,Laia Sánchez Castells,True,1970-11-21,55,0.035,2129.0
+41156735G,135,Toni,Castells,Espanya,Bilbao,7,6,1990,Home,1674,No,Grup B,Toni Castells,True,1990-06-07,35,0.035,1732.59
+12234836K,138,Chloé,Girard,França,Marsella,17,4,1977,Dona,1985,Sí,Grup B,Chloé Girard,False,1977-04-17,48,0.035,2054.48
+99521295N,139,Anna,Castells Martínez,Espanya,València,3,4,1991,Dona,1414,No,Grup B,Anna Castells Martínez,True,1991-04-03,34,0.035,1463.49
+37399141L,154,Laura,Schneider Fischer,Alemanya,Berlín,2,2,1958,Dona,1769,Sí,Grup B,Laura Schneider Fischer,False,1958-02-02,67,0.035,1830.92
+15110846Z,156,Oriol,López,Espanya,València,27,6,2002,Home,1308,No,Grup B,Oriol López,True,2002-06-27,23,0.035,1353.78
+83165476Y,157,Núria,García Ferrer,Espanya,Sevilla,17,6,1957,Altres,1240,No,Grup B,Núria García Ferrer,True,1957-06-17,68,0.035,1283.4
+28967396E,159,Daniel,Gutiérrez Castro,Colòmbia,Medellín,4,5,1976,Home,1456,No,Grup B,Daniel Gutiérrez Castro,False,1976-05-04,49,0.035,1506.96
+47304350Y,161,Jordi,Ferrer,Espanya,València,21,6,1967,Home,1330,Sí,Grup B,Jordi Ferrer,True,1967-06-21,58,0.035,1376.55
+54585678Q,165,Pau,López Martínez,Espanya,Bilbao,22,5,1967,Home,2125,Sí,Grup B,Pau López Martínez,True,1967-05-22,58,0.035,2199.38
+42625930X,166,Joan,Romero,Espanya,Bilbao,15,11,1987,Home,1528,No,Grup B,Joan Romero,True,1987-11-15,38,0.035,1581.48
+44075059L,167,Oriol,Sánchez Sánchez,Espanya,Bilbao,17,3,2002,Home,1815,Sí,Grup B,Oriol Sánchez Sánchez,True,2002-03-17,23,0.035,1878.52
+24435321M,170,Marta,Castells Ferrer,Espanya,Sevilla,15,3,1981,Dona,1872,Sí,Grup B,Marta Castells Ferrer,True,1981-03-15,44,0.035,1937.52
+68455541R,172,Sofia,Oliveira,Portugal,Porto,5,7,1952,Dona,1413,No,Grup B,Sofia Oliveira,False,1952-07-05,73,0.035,1462.46
+12763903J,175,Eva,Martínez,Espanya,Madrid,19,10,1974,,2015,No,Grup B,Eva Martínez,True,1974-10-19,51,0.035,2085.52
+87744901Q,176,Toni,García,Espanya,Bilbao,20,9,1990,Home,1698,No,Grup B,Toni García,True,1990-09-20,35,0.035,1757.43
+28996393T,178,Oriol,Sánchez Martínez,Espanya,Sevilla,5,1,1981,Home,1941,No,Grup B,Oriol Sánchez Martínez,True,1981-01-05,44,0.035,2008.94
+55395479J,179,Anna,Ferrer,Espanya,València,6,10,1984,Dona,1531,Sí,Grup B,Anna Ferrer,True,1984-10-06,41,0.035,1584.58
+33939128K,183,Matías,Gómez Gómez,Argentina,Còrdova,18,8,2002,Home,2080,Sí,Grup B,Matías Gómez Gómez,False,2002-08-18,23,0.035,2152.8
+28394981G,184,Jean,Girard Moreau,França,París,26,9,1991,,1573,Sí,Grup B,Jean Girard Moreau,False,1991-09-26,34,0.035,1628.05
+83703395A,187,Pau,Martínez,Espanya,Madrid,14,2,1959,Home,2100,No,Grup B,Pau Martínez,True,1959-02-14,66,0.035,2173.5
+73749390X,191,Eva,Romero Ferrer,Espanya,València,7,12,1965,Dona,1861,No,Grup B,Eva Romero Ferrer,True,1965-12-07,59,0.035,1926.13
+42823610D,193,Eva,Castells,Espanya,Madrid,9,7,1956,Dona,1669,Sí,Grup B,Eva Castells,True,1956-07-09,69,0.035,1727.42
+75141877A,195,Fatima,Fassi,Marroc,Casablanca,18,3,1958,Dona,1154,No,Grup B,Fatima Fassi,False,1958-03-18,67,0.035,1194.39
+43586389Z,196,Jordi,Ferrer,Espanya,Sevilla,15,2,1958,Home,1797,No,Grup B,Jordi Ferrer,True,1958-02-15,67,0.035,1859.89
+98144857C,197,Arnau,Sánchez,Espanya,Sevilla,21,10,1990,Home,2149,No,Grup B,Arnau Sánchez,True,1990-10-21,35,0.035,2224.21
+33058070M,200,Marta,Romero García,Espanya,Madrid,11,5,1973,Dona,1929,No,Grup B,Marta Romero García,True,1973-05-11,52,0.035,1996.52
+41916963A,201,Marta,Romero,Espanya,Sevilla,27,4,1976,Dona,1759,No,Grup B,Marta Romero,True,1976-04-27,49,0.035,1820.56
+33287222R,202,Toni,Romero,Espanya,València,19,1,1974,Home,1451,No,Grup B,Toni Romero,True,1974-01-19,51,0.035,1501.78
+29151933K,206,Arnau,Romero Romero,Espanya,València,8,10,1968,Home,1811,No,Grup B,Arnau Romero Romero,True,1968-10-08,57,0.035,1874.38
+21050694P,210,Toni,Sánchez,Espanya,Barcelona,1,1,1987,Home,1493,No,Grup B,Toni Sánchez,True,1987-01-01,38,0.035,1545.26
+90216874S,212,Jordi,Ferrer,Espanya,Sevilla,12,7,2003,Home,1413,No,Grup B,Jordi Ferrer,True,2003-07-12,22,0.035,1462.46
+74017954Q,219,Anna,Sánchez,Espanya,València,25,2,1981,Dona,1200,No,Grup B,Anna Sánchez,True,1981-02-25,44,0.035,1242.0
+73563832M,221,Oriol,Ferrer Romero,Espanya,Madrid,9,2,1985,Home,1970,No,Grup B,Oriol Ferrer Romero,True,1985-02-09,40,0.035,2038.95
+86350703G,222,Sophie,Smith,Regne Unit,Manchester,8,1,1957,Dona,1254,Sí,Grup B,Sophie Smith,False,1957-01-08,68,0.035,1297.89
+37368317L,224,Lea,Schneider Schneider,Alemanya,Berlín,23,10,2005,Dona,2013,No,Grup B,Lea Schneider Schneider,False,2005-10-23,20,0.035,2083.46
+83710837G,232,José,González Ramírez,Mèxic,Ciutat de Mèxic,2,3,1955,Home,1677,No,Grup B,José González Ramírez,False,1955-03-02,70,0.035,1735.7
+69273831N,244,Sara,Gutiérrez,Colòmbia,Bogotà,26,2,1970,Dona,1893,No,Grup B,Sara Gutiérrez,False,1970-02-26,55,0.035,1959.26
+27292471C,245,Eva,García,Espanya,Bilbao,18,10,1962,,2135,No,Grup B,Eva García,True,1962-10-18,63,0.035,2209.72
+41171214L,249,Jordi,Romero García,Espanya,Sevilla,6,8,2000,Home,1972,Sí,Grup B,Jordi Romero García,True,2000-08-06,25,0.035,2041.02
+15594293F,251,Emily,Jones,Regne Unit,Londres,15,11,1969,Dona,1274,No,Grup B,Emily Jones,False,1969-11-15,56,0.035,1318.59
+51884150Q,256,Joan,Romero Sánchez,Espanya,Bilbao,24,7,1951,Home,1493,Sí,Grup B,Joan Romero Sánchez,True,1951-07-24,74,0.035,1545.26
+65118360Z,258,Joan,Romero Martínez,Espanya,Bilbao,19,11,1954,Home,2091,No,Grup B,Joan Romero Martínez,True,1954-11-19,71,0.035,2164.18
+21526488C,260,Joan,Sánchez,Espanya,València,9,8,1997,Home,2303,Sí,Grup B,Joan Sánchez,True,1997-08-09,28,0.035,2383.6
+49061102W,263,Mohamed,El Amrani Zahraoui,Marroc,Casablanca,12,8,1984,Altres,1545,Sí,Grup B,Mohamed El Amrani Zahraoui,False,1984-08-12,41,0.035,1599.07
+60287803J,267,Pau,Ferrer,Espanya,Barcelona,15,3,1991,Home,1503,Sí,Grup B,Pau Ferrer,True,1991-03-15,34,0.035,1555.6
+24315095T,268,Toni,Ferrer,Espanya,Bilbao,24,2,1964,Altres,2140,No,Grup B,Toni Ferrer,True,1964-02-24,61,0.035,2214.9
+14473175F,269,Oriol,Castells,Espanya,Bilbao,17,3,1965,Home,2222,No,Grup B,Oriol Castells,True,1965-03-17,60,0.035,2299.77
+56555741Z,270,Marco,Conti Rossi,Itàlia,Roma,4,1,1986,Home,1450,No,Grup B,Marco Conti Rossi,False,1986-01-04,39,0.035,1500.75
+21390098Z,278,Mia,Fischer,Alemanya,Berlín,11,8,1950,Dona,1557,Sí,Grup B,Mia Fischer,False,1950-08-11,75,0.035,1611.5
+14688639J,287,Toni,Castells Ferrer,Espanya,Barcelona,15,11,1974,,1840,No,Grup B,Toni Castells Ferrer,True,1974-11-15,51,0.035,1904.4
+56867791S,290,Marc,Castells Sánchez,Espanya,Barcelona,24,6,2000,Home,1398,No,Grup B,Marc Castells Sánchez,True,2000-06-24,25,0.035,1446.93
+80471691R,291,Laia,Sánchez,Espanya,Sevilla,3,3,1982,Dona,1850,Sí,Grup B,Laia Sánchez,True,1982-03-03,43,0.035,1914.75
+66854670R,292,George,Jones Taylor,Regne Unit,Londres,27,5,2000,,2100,No,Grup B,George Jones Taylor,False,2000-05-27,25,0.035,2173.5
+61862070S,294,Núria,Castells,Espanya,València,25,12,1992,Dona,2023,Sí,Grup B,Núria Castells,True,1992-12-25,32,0.035,2093.8
+91287275Z,298,Luisa,González Cruz,Mèxic,Ciutat de Mèxic,20,11,1990,Dona,1201,Sí,Grup B,Luisa González Cruz,False,1990-11-20,35,0.035,1243.03
+92774049Y,300,Oriol,Romero García,Espanya,Barcelona,5,9,1972,Home,1461,No,Grup B,Oriol Romero García,True,1972-09-05,53,0.035,1512.14
+93432185G,301,Oriol,Martínez,Espanya,Sevilla,26,7,1957,Home,2282,No,Grup B,Oriol Martínez,True,1957-07-26,68,0.035,2361.87
+20520614Y,302,Núria,Ferrer,Espanya,Barcelona,9,6,1959,,1961,No,Grup B,Núria Ferrer,True,1959-06-09,66,0.035,2029.63
+42280605C,303,Clara,García,Espanya,Sevilla,16,10,1951,Dona,1429,Sí,Grup B,Clara García,True,1951-10-16,74,0.035,1479.02
+66171387W,309,Valentina,Rojas,Colòmbia,Bogotà,6,9,1959,Dona,1185,No,Grup B,Valentina Rojas,False,1959-09-06,66,0.035,1226.47
+59071537P,313,Carla,Sánchez,Espanya,Madrid,2,7,1990,Dona,1522,Sí,Grup B,Carla Sánchez,True,1990-07-02,35,0.035,1575.27
+17102266H,315,Marta,Romero García,Espanya,València,3,4,1972,Altres,1350,Sí,Grup B,Marta Romero García,True,1972-04-03,53,0.035,1397.25
+21135917V,316,Valentina,Torres,Colòmbia,Bogotà,14,1,1968,Dona,2040,No,Grup B,Valentina Torres,False,1968-01-14,57,0.035,2111.4
+47660164G,318,Jordi,Romero Martínez,Espanya,Barcelona,11,6,1983,Home,2303,No,Grup B,Jordi Romero Martínez,True,1983-06-11,42,0.035,2383.6
+62152209S,319,Laia,García,Espanya,Madrid,9,8,1991,Dona,1495,No,Grup B,Laia García,True,1991-08-09,34,0.035,1547.32
+29753711H,320,Anna,Ferrer Castells,Espanya,Bilbao,18,8,1992,Dona,1317,Sí,Grup B,Anna Ferrer Castells,True,1992-08-18,33,0.035,1363.09
+57378189F,321,Toni,López,Espanya,Madrid,12,10,1964,Home,1367,Sí,Grup B,Toni López,True,1964-10-12,61,0.035,1414.84
+79676573H,322,Marta,Ferrer Sánchez,Espanya,València,18,3,1952,Dona,1299,Sí,Grup B,Marta Ferrer Sánchez,True,1952-03-18,73,0.035,1344.46
+96964440V,323,Marco,Russo,Itàlia,Torí,13,7,1982,Home,2194,No,Grup B,Marco Russo,False,1982-07-13,43,0.035,2270.79
+14889781M,328,Lucas,Álvarez Álvarez,Argentina,Còrdova,17,5,1981,Home,1912,Sí,Grup B,Lucas Álvarez Álvarez,False,1981-05-17,44,0.035,1978.92
+16129804M,331,Arnau,García,Espanya,València,11,2,1953,Home,1886,No,Grup B,Arnau García,True,1953-02-11,72,0.035,1952.01
+92922593Z,332,Arnau,López,Espanya,Madrid,4,4,1994,Altres,1803,No,Grup B,Arnau López,True,1994-04-04,31,0.035,1866.1
+89271483K,335,Camila,Ramírez González,Mèxic,Guadalajara,10,4,1965,Dona,1853,No,Grup B,Camila Ramírez González,False,1965-04-10,60,0.035,1917.85
+59372221S,338,Laia,Ferrer,Espanya,Bilbao,22,5,1978,Dona,1218,No,Grup B,Laia Ferrer,True,1978-05-22,47,0.035,1260.63
+61477292C,339,Marta,Romero,Espanya,Bilbao,8,7,1978,Dona,1846,No,Grup B,Marta Romero,True,1978-07-08,47,0.035,1910.61
+13998302S,355,Clara,Ferrer Martínez,Espanya,Sevilla,24,5,1951,Dona,1767,No,Grup B,Clara Ferrer Martínez,True,1951-05-24,74,0.035,1828.84
+72888019J,357,María,González Hernández,Mèxic,Ciutat de Mèxic,14,7,1965,Dona,1615,No,Grup B,María González Hernández,False,1965-07-14,60,0.035,1671.52
+99123197C,359,Marc,Sánchez Castells,Espanya,Sevilla,21,3,1980,Home,1279,No,Grup B,Marc Sánchez Castells,True,1980-03-21,45,0.035,1323.76
+37655961A,360,Núria,García,Espanya,Barcelona,2,5,1989,Dona,1627,Sí,Grup B,Núria García,True,1989-05-02,36,0.035,1683.94
+50292113M,361,Laia,López,Espanya,Madrid,21,4,1984,Dona,1179,Sí,Grup B,Laia López,True,1984-04-21,41,0.035,1220.26
+68186758D,365,Carla,García,Espanya,Barcelona,6,10,2001,Dona,1962,Sí,Grup B,Carla García,True,2001-10-06,24,0.035,2030.67
+10882370B,367,Núria,Romero Martínez,Espanya,València,16,3,2004,Dona,1378,Sí,Grup B,Núria Romero Martínez,True,2004-03-16,21,0.035,1426.23
+89173930Q,368,Sophie,Moreau Lefevre,França,Marsella,11,1,1995,Dona,1742,Sí,Grup B,Sophie Moreau Lefevre,False,1995-01-11,30,0.035,1802.97
+50829502T,373,Núria,Ferrer Romero,Espanya,Sevilla,16,3,1989,Dona,1257,No,Grup B,Núria Ferrer Romero,True,1989-03-16,36,0.035,1300.99
+53457611N,375,Arnau,López López,Espanya,Bilbao,6,6,1991,Home,1382,No,Grup B,Arnau López López,True,1991-06-06,34,0.035,1430.37
+59779704A,377,Clara,Romero López,Espanya,Barcelona,8,12,1985,Dona,1385,Sí,Grup B,Clara Romero López,True,1985-12-08,39,0.035,1433.48
+35566470L,378,Carla,López Sánchez,Espanya,Bilbao,11,10,1961,Dona,1626,Sí,Grup B,Carla López Sánchez,True,1961-10-11,64,0.035,1682.91
+93122931K,380,Toni,Ferrer,Espanya,Bilbao,5,9,1957,Home,1415,No,Grup B,Toni Ferrer,True,1957-09-05,68,0.035,1464.52
+63960462M,381,Anna,Castells Martínez,Espanya,Bilbao,6,3,1959,Dona,1561,Sí,Grup B,Anna Castells Martínez,True,1959-03-06,66,0.035,1615.63
+43756083N,383,Mia,Fischer,Alemanya,Munic,8,9,1953,Dona,1666,No,Grup B,Mia Fischer,False,1953-09-08,72,0.035,1724.31
+28171073A,390,Núria,Martínez Romero,Espanya,Bilbao,9,7,1965,Dona,1619,Sí,Grup B,Núria Martínez Romero,True,1965-07-09,60,0.035,1675.66
+17164182B,391,Sara,Torres Castro,Colòmbia,Medellín,25,2,1992,Dona,1334,Sí,Grup B,Sara Torres Castro,False,1992-02-25,33,0.035,1380.69
+10352133N,393,Marco,Conti Russo,Itàlia,Torí,28,1,2005,Home,2002,No,Grup B,Marco Conti Russo,False,2005-01-28,20,0.035,2072.07
+94310395L,396,Ali,Bennani,Marroc,Casablanca,22,3,1980,Home,2160,Sí,Grup B,Ali Bennani,False,1980-03-22,45,0.035,2235.6
+13299063V,403,Marc,Ferrer García,Espanya,València,21,4,1996,Home,1618,No,Grup B,Marc Ferrer García,True,1996-04-21,29,0.035,1674.63
+67537453P,408,Joan,Romero Martínez,Espanya,Bilbao,24,12,1985,Home,1764,No,Grup B,Joan Romero Martínez,True,1985-12-24,39,0.035,1825.74
+97299170Q,415,Marta,Romero Ferrer,Espanya,Barcelona,7,2,1962,Dona,1336,Sí,Grup B,Marta Romero Ferrer,True,1962-02-07,63,0.035,1382.76
+98511923W,416,Carla,Castells Castells,Espanya,Sevilla,22,6,1979,Dona,1845,No,Grup B,Carla Castells Castells,True,1979-06-22,46,0.035,1909.57
+50115394L,419,Arnau,Martínez,Espanya,Bilbao,25,4,1959,Home,1372,Sí,Grup B,Arnau Martínez,True,1959-04-25,66,0.035,1420.02
+15838881W,429,Marta,Romero,Espanya,Sevilla,26,10,2002,Dona,1291,Sí,Grup B,Marta Romero,True,2002-10-26,23,0.035,1336.18
+88164399Q,430,Camille,Girard Lefevre,França,París,26,1,2001,Dona,1521,Sí,Grup B,Camille Girard Lefevre,False,2001-01-26,24,0.035,1574.24
+83561180C,433,Carla,López,Espanya,Bilbao,7,7,2003,Dona,1760,Sí,Grup B,Carla López,True,2003-07-07,22,0.035,1821.6
+80116589E,434,Toni,Castells Romero,Espanya,València,26,8,1988,Home,1292,Sí,Grup B,Toni Castells Romero,True,1988-08-26,37,0.035,1337.22
+70945038M,436,Leon,Schneider,Alemanya,Munic,5,5,1981,Home,1672,No,Grup B,Leon Schneider,False,1981-05-05,44,0.035,1730.52
+66590677S,445,Marta,García,Espanya,Bilbao,19,8,1950,Dona,1431,No,Grup B,Marta García,True,1950-08-19,75,0.035,1481.08
+67472696R,449,Francesca,Ferrari Ferrari,Itàlia,Torí,21,4,1990,,1316,No,Grup B,Francesca Ferrari Ferrari,False,1990-04-21,35,0.035,1362.06
+79349076S,453,Núria,Martínez Ferrer,Espanya,Barcelona,7,11,1991,Dona,1506,No,Grup B,Núria Martínez Ferrer,True,1991-11-07,34,0.035,1558.71
+50085415G,456,Joan,García,Espanya,Madrid,22,10,2000,Home,2067,No,Grup B,Joan García,True,2000-10-22,25,0.035,2139.34
+88571285P,457,Oriol,Castells,Espanya,Bilbao,13,4,1972,Home,1592,Sí,Grup B,Oriol Castells,True,1972-04-13,53,0.035,1647.72
+53588164S,458,Jordi,Ferrer López,Espanya,Madrid,13,9,1955,Home,1691,Sí,Grup B,Jordi Ferrer López,True,1955-09-13,70,0.035,1750.18
+29092175V,461,Marc,López Sánchez,Espanya,Sevilla,11,4,1968,Home,1315,No,Grup B,Marc López Sánchez,True,1968-04-11,57,0.035,1361.02
+97241617V,462,Marta,López Sánchez,Espanya,Madrid,17,5,1992,Dona,1871,Sí,Grup B,Marta López Sánchez,True,1992-05-17,33,0.035,1936.48
+44603694F,473,Toni,Castells,Espanya,València,4,9,1964,Home,1297,No,Grup B,Toni Castells,True,1964-09-04,61,0.035,1342.4
+50351415W,474,Núria,Ferrer,Espanya,Barcelona,19,9,2001,Dona,1147,Sí,Grup B,Núria Ferrer,True,2001-09-19,24,0.035,1187.14
+83461359C,477,Marc,Romero,Espanya,Madrid,2,8,1984,Home,1635,No,Grup B,Marc Romero,True,1984-08-02,41,0.035,1692.22
+63487190Q,482,Laia,Castells López,Espanya,Barcelona,15,11,1969,Dona,1482,No,Grup B,Laia Castells López,True,1969-11-15,56,0.035,1533.87
+89757860E,486,Eva,Castells Martínez,Espanya,Barcelona,15,7,1996,Dona,1370,Sí,Grup B,Eva Castells Martínez,True,1996-07-15,29,0.035,1417.95
+60982309S,487,Lukas,Müller Fischer,Alemanya,Hamburg,28,3,1971,Home,2042,No,Grup B,Lukas Müller Fischer,False,1971-03-28,54,0.035,2113.47
+49562152B,488,Marta,Ferrer,Espanya,Madrid,25,5,1976,Dona,1922,No,Grup B,Marta Ferrer,True,1976-05-25,49,0.035,1989.27
+32909990R,491,Laia,Romero,Espanya,Sevilla,18,5,1960,Dona,1354,No,Grup B,Laia Romero,True,1960-05-18,65,0.035,1401.39
+44724403H,493,Toni,Ferrer,Espanya,Bilbao,20,2,1980,Home,1454,No,Grup B,Toni Ferrer,True,1980-02-20,45,0.035,1504.89
+54525691Y,494,Laia,García Ferrer,Espanya,Bilbao,19,1,1970,Dona,1765,No,Grup B,Laia García Ferrer,True,1970-01-19,55,0.035,1826.78
+74821823F,495,Beatriz,Oliveira Ferreira,Portugal,Lisboa,5,9,1985,Dona,1548,Sí,Grup B,Beatriz Oliveira Ferreira,False,1985-09-05,40,0.035,1602.18
+41974885N,499,Arnau,Ferrer Romero,Espanya,València,13,7,1958,Home,1786,Sí,Grup B,Arnau Ferrer Romero,True,1958-07-13,67,0.035,1848.51
+78223675H,503,Santiago,Gutiérrez Torres,Colòmbia,Medellín,4,12,1959,Home,2238,Sí,Grup B,Santiago Gutiérrez Torres,False,1959-12-04,66,0.035,2316.33
+64394445D,507,Gabriela,Ramírez,Mèxic,Ciutat de Mèxic,19,2,1990,Dona,1569,Sí,Grup B,Gabriela Ramírez,False,1990-02-19,35,0.035,1623.92
+18457673C,509,Carla,Martínez,Espanya,València,17,4,1999,Dona,1281,No,Grup B,Carla Martínez,True,1999-04-17,26,0.035,1325.83
+33585026G,511,Youssef,El Amrani Fassi,Marroc,Rabat,13,10,1981,Home,1785,No,Grup B,Youssef El Amrani Fassi,False,1981-10-13,44,0.035,1847.48
+90216535S,513,Martina,Rodríguez Gómez,Argentina,Buenos Aires,10,3,1978,Dona,1292,Sí,Grup B,Martina Rodríguez Gómez,False,1978-03-10,47,0.035,1337.22
+74822167B,514,Antoine,Lefevre,França,Marsella,1,10,1953,Home,1745,No,Grup B,Antoine Lefevre,False,1953-10-01,72,0.035,1806.07
+23955973V,515,Eva,Ferrer Romero,Espanya,Bilbao,19,5,1976,Dona,1412,No,Grup B,Eva Ferrer Romero,True,1976-05-19,49,0.035,1461.42
+72168409M,530,Lucas,Fernández Álvarez,Argentina,Còrdova,27,4,1993,Home,1992,Sí,Grup B,Lucas Fernández Álvarez,False,1993-04-27,32,0.035,2061.72
+44215821L,531,Julieta,Rodríguez,Argentina,Buenos Aires,24,7,1979,Dona,1181,No,Grup B,Julieta Rodríguez,False,1979-07-24,46,0.035,1222.33
+23058334Y,533,Jordi,Ferrer,Espanya,Sevilla,5,3,1993,Home,1653,Sí,Grup B,Jordi Ferrer,True,1993-03-05,32,0.035,1710.85
+25439397A,543,Pau,Ferrer García,Espanya,Barcelona,21,3,1982,Home,1270,No,Grup B,Pau Ferrer García,True,1982-03-21,43,0.035,1314.45
+89577876S,547,Emily,Taylor Jones,Regne Unit,Manchester,28,3,1958,Dona,2033,No,Grup B,Emily Taylor Jones,False,1958-03-28,67,0.035,2104.15
+76782023V,548,Anna,Castells García,Espanya,Bilbao,26,3,1950,Dona,1465,Sí,Grup B,Anna Castells García,True,1950-03-26,75,0.035,1516.28
+87154578D,549,Toni,Martínez,Espanya,Bilbao,5,7,1973,Home,1643,Sí,Grup B,Toni Martínez,True,1973-07-05,52,0.035,1700.5
+19721783S,550,Núria,Ferrer,Espanya,Barcelona,7,12,1983,Dona,1964,No,Grup B,Núria Ferrer,True,1983-12-07,41,0.035,2032.74
+87257820C,556,Marta,García,Espanya,València,14,5,1976,Dona,1582,No,Grup B,Marta García,True,1976-05-14,49,0.035,1637.37
+62035858J,557,Sara,Castro,Colòmbia,Bogotà,4,12,1974,Dona,1524,Sí,Grup B,Sara Castro,False,1974-12-04,51,0.035,1577.34
+97143963K,560,Chiara,Russo Conti,Itàlia,Roma,6,11,1985,Altres,1441,Sí,Grup B,Chiara Russo Conti,False,1985-11-06,40,0.035,1491.44
+39929911E,566,Eva,Castells Romero,Espanya,Madrid,24,1,1958,Altres,1908,No,Grup B,Eva Castells Romero,True,1958-01-24,67,0.035,1974.78
+36717144Q,567,Jordi,Romero,Espanya,Bilbao,17,11,1969,Home,1358,No,Grup B,Jordi Romero,True,1969-11-17,56,0.035,1405.53
+44505750Y,572,Gabriela,Ramírez González,Mèxic,Ciutat de Mèxic,26,3,1988,Dona,1220,No,Grup B,Gabriela Ramírez González,False,1988-03-26,37,0.035,1262.7
+89141927S,573,Eva,Ferrer Ferrer,Espanya,València,24,12,1979,Dona,1587,No,Grup B,Eva Ferrer Ferrer,True,1979-12-24,45,0.035,1642.54
+15336274M,577,Laia,López Sánchez,Espanya,Barcelona,11,5,1964,Dona,2090,No,Grup B,Laia López Sánchez,True,1964-05-11,61,0.035,2163.15
+11062448Q,580,Marta,Martínez,Espanya,Barcelona,4,7,1980,Dona,1660,Sí,Grup B,Marta Martínez,True,1980-07-04,45,0.035,1718.1
+31675368R,585,Eva,López Martínez,Espanya,Bilbao,27,7,1998,Dona,1334,No,Grup B,Eva López Martínez,True,1998-07-27,27,0.035,1380.69
+89450981Z,588,Laia,Castells,Espanya,Bilbao,20,11,2000,Dona,1698,Sí,Grup B,Laia Castells,True,2000-11-20,25,0.035,1757.43
+54853635H,593,Laia,Castells Ferrer,Espanya,Sevilla,23,6,1986,Dona,1178,Sí,Grup B,Laia Castells Ferrer,True,1986-06-23,39,0.035,1219.23
+81398413Q,597,Laura,Castro Torres,Colòmbia,Medellín,6,6,1997,Dona,1438,No,Grup B,Laura Castro Torres,False,1997-06-06,28,0.035,1488.33
+57692936L,598,Laura,Schmidt,Alemanya,Hamburg,3,5,1956,,1828,Sí,Grup B,Laura Schmidt,False,1956-05-03,69,0.035,1891.98
+17135791L,599,Toni,Romero García,Espanya,Barcelona,12,6,1963,Home,1598,No,Grup B,Toni Romero García,True,1963-06-12,62,0.035,1653.93
+13357124H,604,Arnau,Martínez Martínez,Espanya,Sevilla,6,12,1960,Home,1789,No,Grup B,Arnau Martínez Martínez,True,1960-12-06,64,0.035,1851.61
+53653173V,616,Anna,López,Espanya,Madrid,17,1,1964,Altres,1303,No,Grup B,Anna López,True,1964-01-17,61,0.035,1348.6
+15138029Q,617,Marc,Castells,Espanya,Bilbao,16,12,2002,Home,2132,No,Grup B,Marc Castells,True,2002-12-16,22,0.035,2206.62
+53822006D,620,Ali,El Amrani El Amrani,Marroc,Rabat,4,5,1971,Home,2127,No,Grup B,Ali El Amrani El Amrani,False,1971-05-04,54,0.035,2201.44
+18876694Z,621,Juan,Álvarez Fernández,Argentina,Buenos Aires,11,8,1991,Home,1412,Sí,Grup B,Juan Álvarez Fernández,False,1991-08-11,34,0.035,1461.42
+78668978W,623,Pau,Sánchez,Espanya,Bilbao,20,5,1994,Home,2176,Sí,Grup B,Pau Sánchez,True,1994-05-20,31,0.035,2252.16
+51927396G,625,Maria,Pereira Pereira,Portugal,Porto,19,6,1980,Dona,1672,No,Grup B,Maria Pereira Pereira,False,1980-06-19,45,0.035,1730.52
+49846108N,626,Joan,Romero López,Espanya,Barcelona,11,1,1950,Home,1982,Sí,Grup B,Joan Romero López,True,1950-01-11,75,0.035,2051.37
+46129359E,628,Laia,Castells Martínez,Espanya,Madrid,8,4,1975,Dona,1442,No,Grup B,Laia Castells Martínez,True,1975-04-08,50,0.035,1492.47
+19814204M,631,Marta,García,Espanya,Bilbao,23,2,1999,Dona,1580,Sí,Grup B,Marta García,True,1999-02-23,26,0.035,1635.3
+46035899S,632,Marc,Romero,Espanya,Sevilla,2,11,1975,Home,1569,No,Grup B,Marc Romero,True,1975-11-02,50,0.035,1623.92
+38832908L,633,Arnau,Martínez,Espanya,Madrid,20,12,1999,Home,2100,No,Grup B,Arnau Martínez,True,1999-12-20,25,0.035,2173.5
+11156851X,635,Carla,Sánchez,Espanya,València,17,8,1975,Dona,1508,Sí,Grup B,Carla Sánchez,True,1975-08-17,50,0.035,1560.78
+61239482R,637,Eva,López Sánchez,Espanya,València,25,4,1987,Dona,2086,No,Grup B,Eva López Sánchez,True,1987-04-25,38,0.035,2159.01
+71461971W,640,Lucas,Álvarez,Argentina,Buenos Aires,22,3,1984,Home,1670,No,Grup B,Lucas Álvarez,False,1984-03-22,41,0.035,1728.45
+31958336Z,641,Núria,Martínez Castells,Espanya,Sevilla,8,12,1962,Dona,1300,No,Grup B,Núria Martínez Castells,True,1962-12-08,62,0.035,1345.5
+19508494Q,645,Jonas,Schneider Schmidt,Alemanya,Hamburg,15,8,1983,Home,1476,Sí,Grup B,Jonas Schneider Schmidt,False,1983-08-15,42,0.035,1527.66
+32873655H,655,Pau,Martínez García,Espanya,Barcelona,15,11,1989,Home,2254,No,Grup B,Pau Martínez García,True,1989-11-15,36,0.035,2332.89
+74293523P,656,Sofia,Oliveira,Portugal,Lisboa,2,4,1998,Dona,2006,No,Grup B,Sofia Oliveira,False,1998-04-02,27,0.035,2076.21
+49127195L,657,Beatriz,Ferreira,Portugal,Porto,11,5,1950,Altres,1574,Sí,Grup B,Beatriz Ferreira,False,1950-05-11,75,0.035,1629.09
+17792481K,659,Joan,Romero Martínez,Espanya,Bilbao,16,2,1996,Home,1849,No,Grup B,Joan Romero Martínez,True,1996-02-16,29,0.035,1913.72
+81156988L,661,Miguel,González Cruz,Mèxic,Ciutat de Mèxic,7,8,1965,Home,2051,No,Grup B,Miguel González Cruz,False,1965-08-07,60,0.035,2122.78
+60352406T,662,Eva,Martínez,Espanya,Madrid,13,6,1994,Dona,1149,No,Grup B,Eva Martínez,True,1994-06-13,31,0.035,1189.21
+66192865D,669,Carla,Romero,Espanya,Barcelona,17,6,1998,Dona,1785,Sí,Grup B,Carla Romero,True,1998-06-17,27,0.035,1847.48
+82495492K,673,Jordi,García Castells,Espanya,València,4,7,1970,Home,1848,Sí,Grup B,Jordi García Castells,True,1970-07-04,55,0.035,1912.68
+77255461X,676,Maria,Ferreira Ferreira,Portugal,Porto,4,3,1996,Dona,1896,Sí,Grup B,Maria Ferreira Ferreira,False,1996-03-04,29,0.035,1962.36
+50017849P,677,Núria,Martínez,Espanya,València,26,9,1958,Dona,1912,No,Grup B,Núria Martínez,True,1958-09-26,67,0.035,1978.92
+14532429J,679,Jean,Dubois Moreau,França,Marsella,7,12,1967,Home,1941,No,Grup B,Jean Dubois Moreau,False,1967-12-07,57,0.035,2008.94
+48928716V,680,Eva,Ferrer,Espanya,Madrid,22,5,1997,Dona,1226,No,Grup B,Eva Ferrer,True,1997-05-22,28,0.035,1268.91
+20554785E,683,Andrés,González,Mèxic,Guadalajara,13,10,1977,Home,1734,No,Grup B,Andrés González,False,1977-10-13,48,0.035,1794.69
+96850216C,690,Valentina,Gutiérrez Rojas,Colòmbia,Medellín,2,10,1959,Dona,1728,Sí,Grup B,Valentina Gutiérrez Rojas,False,1959-10-02,66,0.035,1788.48
+21123762J,697,Toni,Sánchez Sánchez,Espanya,València,20,1,1989,Home,2293,No,Grup B,Toni Sánchez Sánchez,True,1989-01-20,36,0.035,2373.25
+87203712F,698,Arnau,Martínez Sánchez,Espanya,Barcelona,20,6,1971,Home,1373,No,Grup B,Arnau Martínez Sánchez,True,1971-06-20,54,0.035,1421.05
+94864855F,699,Toni,Sánchez,Espanya,Madrid,6,3,1996,Home,2052,No,Grup B,Toni Sánchez,True,1996-03-06,29,0.035,2123.82
+83942911L,701,Oriol,Romero López,Espanya,Bilbao,3,5,1951,Home,2046,No,Grup B,Oriol Romero López,True,1951-05-03,74,0.035,2117.61
+49962478C,704,Sofia,Silva Oliveira,Portugal,Lisboa,13,8,1977,,1449,No,Grup B,Sofia Silva Oliveira,False,1977-08-13,48,0.035,1499.72
+49561814F,705,Tomás,Gómez,Argentina,Buenos Aires,3,10,1972,Home,1456,No,Grup B,Tomás Gómez,False,1972-10-03,53,0.035,1506.96
+41288932T,706,Carla,Castells,Espanya,Barcelona,24,10,1962,Dona,1248,Sí,Grup B,Carla Castells,True,1962-10-24,63,0.035,1291.68
+54906134P,714,Laia,López,Espanya,Madrid,15,10,1978,Dona,1447,Sí,Grup B,Laia López,True,1978-10-15,47,0.035,1497.64
+42177426S,715,Giovanni,Ferrari,Itàlia,Torí,8,2,1964,Home,1468,No,Grup B,Giovanni Ferrari,False,1964-02-08,61,0.035,1519.38
+70317853J,716,Núria,Romero,Espanya,Barcelona,24,12,1970,Dona,1939,No,Grup B,Núria Romero,True,1970-12-24,54,0.035,2006.86
+48918423X,727,Arnau,Ferrer Romero,Espanya,Madrid,2,7,1975,Home,2196,No,Grup B,Arnau Ferrer Romero,True,1975-07-02,50,0.035,2272.86
+58423324H,731,Núria,Castells Ferrer,Espanya,Sevilla,13,10,2005,Dona,2058,No,Grup B,Núria Castells Ferrer,True,2005-10-13,20,0.035,2130.03
+30532432L,734,Matías,Rodríguez Gómez,Argentina,Buenos Aires,28,9,1957,Home,1463,Sí,Grup B,Matías Rodríguez Gómez,False,1957-09-28,68,0.035,1514.2
+25178167X,735,Laia,Sánchez,Espanya,Barcelona,27,1,1965,Dona,1876,Sí,Grup B,Laia Sánchez,True,1965-01-27,60,0.035,1941.66
+19039929Q,740,Matías,Álvarez,Argentina,Còrdova,24,8,1954,Home,1686,Sí,Grup B,Matías Álvarez,False,1954-08-24,71,0.035,1745.01
+73118029L,742,Florencia,Gómez Fernández,Argentina,Còrdova,12,7,1992,Dona,1245,No,Grup B,Florencia Gómez Fernández,False,1992-07-12,33,0.035,1288.57
+65314666K,745,Marta,Sánchez Romero,Espanya,Barcelona,5,6,1993,Dona,1320,No,Grup B,Marta Sánchez Romero,True,1993-06-05,32,0.035,1366.2
+98834273R,753,Pau,Romero Martínez,Espanya,Barcelona,16,9,1974,Home,1753,No,Grup B,Pau Romero Martínez,True,1974-09-16,51,0.035,1814.35
+97687146Q,756,Gabriela,González Cruz,Mèxic,Ciutat de Mèxic,20,2,1985,,1583,No,Grup B,Gabriela González Cruz,False,1985-02-20,40,0.035,1638.4
+90364828E,758,Laia,Castells,Espanya,Bilbao,23,4,1998,Dona,1788,Sí,Grup B,Laia Castells,True,1998-04-23,27,0.035,1850.58
+16082109P,759,Clara,López,Espanya,Madrid,12,5,1989,Dona,1400,No,Grup B,Clara López,True,1989-05-12,36,0.035,1449.0
+26631271T,763,Laia,Sánchez,Espanya,Bilbao,19,5,1970,Altres,1987,Sí,Grup B,Laia Sánchez,True,1970-05-19,55,0.035,2056.54
+73326255V,766,João,Silva,Portugal,Porto,23,10,1970,Home,1984,Sí,Grup B,João Silva,False,1970-10-23,55,0.035,2053.44
+83613978F,767,Antoine,Lefevre Girard,França,Marsella,22,12,1981,Home,1620,Sí,Grup B,Antoine Lefevre Girard,False,1981-12-22,43,0.035,1676.7
+51525932J,768,Michel,Moreau,França,Marsella,27,6,1978,Home,2085,Sí,Grup B,Michel Moreau,False,1978-06-27,47,0.035,2157.98
+44026048T,772,Joan,López,Espanya,València,15,10,1982,Home,2290,No,Grup B,Joan López,True,1982-10-15,43,0.035,2370.15
+43409433Y,773,Marta,López López,Espanya,Sevilla,24,2,1986,Dona,1292,No,Grup B,Marta López López,True,1986-02-24,39,0.035,1337.22
+32095971T,778,Laia,López López,Espanya,València,8,5,1962,Dona,1238,Sí,Grup B,Laia López López,True,1962-05-08,63,0.035,1281.33
+82936531F,779,Pau,López Martínez,Espanya,Sevilla,17,12,1958,Home,1409,No,Grup B,Pau López Martínez,True,1958-12-17,66,0.035,1458.31
+20049413F,782,Eva,López Ferrer,Espanya,Bilbao,24,12,1952,Dona,2016,No,Grup B,Eva López Ferrer,True,1952-12-24,72,0.035,2086.56
+47702024A,783,Clara,García Ferrer,Espanya,Barcelona,10,10,1956,Dona,1986,No,Grup B,Clara García Ferrer,True,1956-10-10,69,0.035,2055.51
+47853239E,789,Núria,López,Espanya,Sevilla,14,4,1969,Dona,1786,No,Grup B,Núria López,True,1969-04-14,56,0.035,1848.51
+73130661B,793,Clara,Martínez Romero,Espanya,València,1,10,1975,Dona,1978,Sí,Grup B,Clara Martínez Romero,True,1975-10-01,50,0.035,2047.23
+93384627N,795,Camille,Moreau Moreau,França,Lió,16,7,1993,Dona,1962,No,Grup B,Camille Moreau Moreau,False,1993-07-16,32,0.035,2030.67
+25490219L,796,William,Smith Smith,Regne Unit,Londres,1,12,1952,Home,1643,Sí,Grup B,William Smith Smith,False,1952-12-01,73,0.035,1700.5
+41625678H,798,Arnau,Romero,Espanya,Bilbao,18,11,1967,Home,1696,No,Grup B,Arnau Romero,True,1967-11-18,58,0.035,1755.36
+83262533Z,799,Jordi,Martínez Ferrer,Espanya,València,17,6,1950,Home,2281,Sí,Grup B,Jordi Martínez Ferrer,True,1950-06-17,75,0.035,2360.84
+41326173T,808,Laia,Martínez,Espanya,Madrid,9,9,1977,Dona,2053,No,Grup B,Laia Martínez,True,1977-09-09,48,0.035,2124.86
+81124534E,809,Oriol,Sánchez,Espanya,Sevilla,1,4,1969,Home,1423,No,Grup B,Oriol Sánchez,True,1969-04-01,56,0.035,1472.8
+22914113G,810,Laia,Sánchez Sánchez,Espanya,València,25,9,1995,,1356,No,Grup B,Laia Sánchez Sánchez,True,1995-09-25,30,0.035,1403.46
+43658248F,811,Daniela,Castro,Colòmbia,Bogotà,9,3,1980,Dona,1670,Sí,Grup B,Daniela Castro,False,1980-03-09,45,0.035,1728.45
+15277702T,812,Toni,Castells,Espanya,Bilbao,25,7,1966,Home,2132,No,Grup B,Toni Castells,True,1966-07-25,59,0.035,2206.62
+96925654W,816,Rui,Oliveira Silva,Portugal,Lisboa,25,8,1992,Home,1669,No,Grup B,Rui Oliveira Silva,False,1992-08-25,33,0.035,1727.42
+65476112E,818,Marta,Romero Romero,Espanya,Sevilla,24,9,1991,Dona,1630,No,Grup B,Marta Romero Romero,True,1991-09-24,34,0.035,1687.05
+87991679M,819,Anna,Ferrer,Espanya,Barcelona,25,11,1967,Dona,1408,No,Grup B,Anna Ferrer,True,1967-11-25,58,0.035,1457.28
+67762046W,821,Chloé,Moreau,França,Lió,21,2,1989,Dona,1441,No,Grup B,Chloé Moreau,False,1989-02-21,36,0.035,1491.44
+90958057L,822,Joan,Sánchez,Espanya,Bilbao,13,12,1974,Altres,1817,No,Grup B,Joan Sánchez,True,1974-12-13,50,0.035,1880.59
+99565242W,831,Joan,Sánchez Sánchez,Espanya,Madrid,28,7,2005,,1432,No,Grup B,Joan Sánchez Sánchez,True,2005-07-28,20,0.035,1482.12
+49176508C,833,Pau,García López,Espanya,Sevilla,22,8,1996,Home,1348,Sí,Grup B,Pau García López,True,1996-08-22,29,0.035,1395.18
+20335877M,835,Arnau,García Ferrer,Espanya,València,20,1,1951,Home,2045,No,Grup B,Arnau García Ferrer,True,1951-01-20,74,0.035,2116.57
+83539759S,840,Marta,López,Espanya,Barcelona,4,6,2002,Dona,1170,Sí,Grup B,Marta López,True,2002-06-04,23,0.035,1210.95
+95031765F,841,Anna,López Sánchez,Espanya,Barcelona,19,9,1963,Dona,1444,Sí,Grup B,Anna López Sánchez,True,1963-09-19,62,0.035,1494.54
+87757452L,842,Marc,Romero,Espanya,Barcelona,16,8,1986,Home,1663,No,Grup B,Marc Romero,True,1986-08-16,39,0.035,1721.2
+44065719N,845,Pau,Ferrer Ferrer,Espanya,València,9,11,1991,Home,1396,Sí,Grup B,Pau Ferrer Ferrer,True,1991-11-09,34,0.035,1444.86
+50496524Y,846,Alessia,Russo Russo,Itàlia,Roma,14,2,1983,Dona,1358,No,Grup B,Alessia Russo Russo,False,1983-02-14,42,0.035,1405.53
+40194783Y,851,Núria,Sánchez García,Espanya,Madrid,14,1,1966,Dona,1959,Sí,Grup B,Núria Sánchez García,True,1966-01-14,59,0.035,2027.56
+28196940Z,852,Michel,Moreau,França,Lió,12,12,1992,Home,2002,Sí,Grup B,Michel Moreau,False,1992-12-12,32,0.035,2072.07
+98801519G,853,Jordi,García,Espanya,Bilbao,11,1,1970,Home,1698,Sí,Grup B,Jordi García,True,1970-01-11,55,0.035,1757.43
+92775120P,855,Joan,López Castells,Espanya,Barcelona,1,4,1984,,1555,Sí,Grup B,Joan López Castells,True,1984-04-01,41,0.035,1609.42
+58632182Z,858,Laia,Romero,Espanya,Sevilla,16,11,1962,Dona,1211,Sí,Grup B,Laia Romero,True,1962-11-16,63,0.035,1253.38
+32149349F,859,Marta,Romero,Espanya,Bilbao,25,7,1973,Dona,1824,No,Grup B,Marta Romero,True,1973-07-25,52,0.035,1887.84
+17088262F,861,Eva,Sánchez,Espanya,València,18,2,1971,Dona,2087,No,Grup B,Eva Sánchez,True,1971-02-18,54,0.035,2160.04
+72513763X,866,Núria,Romero López,Espanya,Bilbao,15,6,1999,,1636,Sí,Grup B,Núria Romero López,True,1999-06-15,26,0.035,1693.26
+24881645Q,868,Toni,Sánchez,Espanya,Bilbao,26,9,1992,Home,1358,No,Grup B,Toni Sánchez,True,1992-09-26,33,0.035,1405.53
+63182449W,870,Jordi,Romero,Espanya,Barcelona,12,12,1950,Home,2253,Sí,Grup B,Jordi Romero,True,1950-12-12,74,0.035,2331.86
+69079699D,877,Marc,Martínez,Espanya,Bilbao,7,7,1988,Home,1965,No,Grup B,Marc Martínez,True,1988-07-07,37,0.035,2033.78
+90985453R,880,Pau,Ferrer,Espanya,Madrid,24,11,1997,Home,2223,No,Grup B,Pau Ferrer,True,1997-11-24,28,0.035,2300.8
+11119181K,883,Arnau,Ferrer,Espanya,Bilbao,20,5,1961,Home,1345,No,Grup B,Arnau Ferrer,True,1961-05-20,64,0.035,1392.07
+51235097D,884,Oriol,Martínez López,Espanya,Barcelona,24,6,1980,Home,2064,No,Grup B,Oriol Martínez López,True,1980-06-24,45,0.035,2136.24
+23333032N,885,Oriol,Martínez,Espanya,València,21,12,1986,Home,1765,No,Grup B,Oriol Martínez,True,1986-12-21,38,0.035,1826.78
+91233007A,893,Joan,García,Espanya,Sevilla,23,3,2003,,1596,Sí,Grup B,Joan García,True,2003-03-23,22,0.035,1651.86
+55212704B,894,Pau,Martínez Romero,Espanya,Barcelona,26,7,1986,Home,1739,No,Grup B,Pau Martínez Romero,True,1986-07-26,39,0.035,1799.86
+23763581C,897,Arnau,García Ferrer,Espanya,Barcelona,1,6,1979,Home,1716,Sí,Grup B,Arnau García Ferrer,True,1979-06-01,46,0.035,1776.06
+75347458Q,902,Toni,Martínez,Espanya,Bilbao,25,12,1974,Home,1351,No,Grup B,Toni Martínez,True,1974-12-25,50,0.035,1398.28
+54347378D,904,Giulia,Russo,Itàlia,Torí,14,6,2005,Dona,1399,Sí,Grup B,Giulia Russo,False,2005-06-14,20,0.035,1447.96
+24140397D,905,Oriol,Sánchez,Espanya,Bilbao,11,9,1989,Home,2115,Sí,Grup B,Oriol Sánchez,True,1989-09-11,36,0.035,2189.02
+89195587K,909,Carla,López Martínez,Espanya,Madrid,14,10,1962,Altres,1549,No,Grup B,Carla López Martínez,True,1962-10-14,63,0.035,1603.22
+18457585L,911,Anna,Ferrer Sánchez,Espanya,Barcelona,25,8,1965,,1437,Sí,Grup B,Anna Ferrer Sánchez,True,1965-08-25,60,0.035,1487.29
+12559305B,917,Núria,García Ferrer,Espanya,Bilbao,11,4,1982,Dona,1758,Sí,Grup B,Núria García Ferrer,True,1982-04-11,43,0.035,1819.53
+29153728J,923,Joan,Romero García,Espanya,València,4,3,1956,Home,2216,No,Grup B,Joan Romero García,True,1956-03-04,69,0.035,2293.56
+34370425H,925,Oriol,Ferrer,Espanya,Madrid,2,4,1974,Home,1324,Sí,Grup B,Oriol Ferrer,True,1974-04-02,51,0.035,1370.34
+50261072D,927,Sophie,Taylor Smith,Regne Unit,Londres,26,12,2005,Dona,1663,No,Grup B,Sophie Taylor Smith,False,2005-12-26,19,0.035,1721.2
+43414375Y,928,Joan,López,Espanya,València,28,3,1995,Home,2152,No,Grup B,Joan López,True,1995-03-28,30,0.035,2227.32
+21977779F,932,Valentina,Torres Rojas,Colòmbia,Medellín,22,10,1957,Dona,1441,No,Grup B,Valentina Torres Rojas,False,1957-10-22,68,0.035,1491.44
+20428037K,933,Anna,García,Espanya,València,22,11,1976,Dona,1551,Sí,Grup B,Anna García,True,1976-11-22,49,0.035,1605.28
+95842086Q,936,Anna,López López,Espanya,València,7,7,1988,Dona,1329,Sí,Grup B,Anna López López,True,1988-07-07,37,0.035,1375.52
+12935907W,937,Pau,Ferrer García,Espanya,Barcelona,21,6,1990,Home,1459,Sí,Grup B,Pau Ferrer García,True,1990-06-21,35,0.035,1510.06
+23385179B,938,Florencia,Fernández,Argentina,Còrdova,14,10,1979,Dona,1209,No,Grup B,Florencia Fernández,False,1979-10-14,46,0.035,1251.31
+56402346W,945,Carlos,Ramírez,Mèxic,Guadalajara,21,3,1959,Home,1465,Sí,Grup B,Carlos Ramírez,False,1959-03-21,66,0.035,1516.28
+21159286B,947,Anna,García,Espanya,Barcelona,22,12,1999,Dona,1501,No,Grup B,Anna García,True,1999-12-22,25,0.035,1553.54
+48597672J,960,Toni,Romero Romero,Espanya,Madrid,15,2,1984,Altres,1758,Sí,Grup B,Toni Romero Romero,True,1984-02-15,41,0.035,1819.53
+86656444H,970,Salma,Zahraoui,Marroc,Casablanca,18,4,1999,Dona,1172,No,Grup B,Salma Zahraoui,False,1999-04-18,26,0.035,1213.02
+46192881X,971,Eva,Martínez López,Espanya,Barcelona,11,4,1958,Dona,1350,No,Grup B,Eva Martínez López,True,1958-04-11,67,0.035,1397.25
+85620401P,972,Rui,Silva Silva,Portugal,Lisboa,6,5,1958,Home,1267,No,Grup B,Rui Silva Silva,False,1958-05-06,67,0.035,1311.34
+13600054Y,976,Carla,Romero,Espanya,Madrid,18,3,1964,Dona,1678,Sí,Grup B,Carla Romero,True,1964-03-18,61,0.035,1736.73
+43630705N,981,Laia,Ferrer,Espanya,Barcelona,2,2,1953,Dona,1393,Sí,Grup B,Laia Ferrer,True,1953-02-02,72,0.035,1441.76
+88020602R,984,Toni,Romero,Espanya,Barcelona,23,8,2001,Home,2187,No,Grup B,Toni Romero,True,2001-08-23,24,0.035,2263.54
+47075714S,988,Marta,López,Espanya,Madrid,13,3,1999,Dona,1186,No,Grup B,Marta López,True,1999-03-13,26,0.035,1227.51
+22942395H,991,Carla,Ferrer Martínez,Espanya,València,3,5,1992,Dona,1714,No,Grup B,Carla Ferrer Martínez,True,1992-05-03,33,0.035,1773.99
+44074013Q,994,Toni,Sánchez,Espanya,Madrid,13,3,1976,,1717,Sí,Grup B,Toni Sánchez,True,1976-03-13,49,0.035,1777.09
+25161375F,995,Marta,Ferrer Ferrer,Espanya,Sevilla,1,6,1951,Dona,1216,No,Grup B,Marta Ferrer Ferrer,True,1951-06-01,74,0.035,1258.56
